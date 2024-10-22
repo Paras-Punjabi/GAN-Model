@@ -7,6 +7,9 @@ These are powerful class of neural networks that are used for unsupervised learn
 
 ![GAN Model](./architecture.png)
 
+### Dataset Used
+[Anime Face Dataset](https://www.kaggle.com/datasets/splcher/animefacedataset)
+
 ### Technologies Used
 - Pytorch
 - Torchvision
